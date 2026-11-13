@@ -169,3 +169,5 @@ if __name__ == "__main__":
         elif 'exit' in query or 'quit' in query or 'bye' in query:
             speak("Goodbye Ma'am! Have a nice day.")
             break
+
+# git pull
