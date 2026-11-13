@@ -166,8 +166,15 @@ if __name__ == "__main__":
             print(f"Dice roll: {dice}")
 
         # Exit
+
+
+        
         elif 'exit' in query or 'quit' in query or 'bye' in query:
             speak("Goodbye Ma'am! Have a nice day.")
             break
 
 # git pull
+
+
+
+print("merge conflict")
